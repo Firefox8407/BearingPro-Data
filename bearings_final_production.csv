@@ -1,0 +1,443 @@
+﻿Brand,Part,Bore,OD,Width,Usage
+SKF,16002,15,32,8,Industrial Standard
+SKF,16003,17,35,8,Industrial Standard
+SKF,16004,20,42,8,Industrial Standard
+SKF,16005,25,47,8,Industrial Standard
+SKF,16006,30,55,9,Industrial Standard
+SKF,16007,35,62,9,Industrial Standard
+SKF,16008,40,68,9,Industrial Standard
+SKF,16009,45,75,10,Industrial Standard
+SKF,16010,50,80,10,Industrial Standard
+SKF,16011,55,90,11,Industrial Standard
+SKF,16012,60,95,11,Industrial Standard
+SKF,6000,10,26,8,Fans
+SKF,6001,12,28,8,Small Motors
+SKF,6002,15,32,9,Industrial Standard
+SKF,6003,17,35,10,Industrial Standard
+SKF,6004,20,42,12,Industrial Standard
+SKF,6005,25,47,12,Industrial Standard
+SKF,6006,30,55,13,Industrial Standard
+SKF,6007,35,62,14,Industrial Standard
+SKF,6008,40,68,15,Industrial Standard
+SKF,6009,45,75,16,Industrial Standard
+SKF,6010,50,80,16,Industrial Standard
+SKF,6011,55,90,18,Industrial Standard
+SKF,6012,60,95,18,Industrial Standard
+SKF,6013,65,100,18,Industrial Standard
+SKF,6014,70,110,20,Industrial Standard
+SKF,6015,75,115,20,Industrial Standard
+SKF,6016,80,125,22,Industrial Standard
+SKF,6017,85,130,22,Industrial Standard
+SKF,6018,90,140,24,Industrial Standard
+SKF,6019,95,145,24,Industrial Standard
+SKF,6020,100,150,24,Industrial Standard
+SKF,6021,105,160,26,Industrial Standard
+SKF,6022,110,170,28,Industrial Standard
+SKF,6024,120,180,28,Industrial Standard
+SKF,6026,130,200,33,Industrial Standard
+SKF,6200,10,30,9,Industrial Standard
+SKF,6201,12,32,10,Industrial Standard
+SKF,6202,15,35,11,Industrial Standard
+SKF,6203,17,40,12,Industrial Standard
+SKF,6204,20,47,14,Industrial Standard
+SKF,6205,25,52,15,Electric Motor
+SKF,6206,30,62,16,Industrial Standard
+SKF,6207,35,72,17,Industrial Standard
+SKF,6208,40,80,18,Industrial Standard
+SKF,6209,45,85,19,Industrial Standard
+SKF,6210,50,90,20,Industrial Standard
+SKF,6211,55,100,21,Industrial Standard
+SKF,6212,60,110,22,Industrial Standard
+SKF,6213,65,120,23,Industrial Standard
+SKF,6214,70,125,24,Industrial Standard
+SKF,6215,75,130,25,Industrial Standard
+SKF,6216,80,140,26,Industrial Standard
+SKF,6217,85,150,28,Industrial Standard
+SKF,6218,90,160,30,Industrial Standard
+SKF,6219,95,170,32,Industrial Standard
+SKF,6220,100,180,34,Industrial Standard
+SKF,6221,105,190,36,Industrial Standard
+SKF,6222,110,200,38,Industrial Standard
+SKF,6224,120,215,40,Industrial Standard
+SKF,6226,130,230,40,Industrial Standard
+SKF,6300,10,35,11,Industrial Standard
+SKF,6301,12,37,12,Industrial Standard
+SKF,6302,15,42,13,Industrial Standard
+SKF,6303,17,47,14,Industrial Standard
+SKF,6304,20,52,15,Industrial Standard
+SKF,6305,25,62,17,Industrial Standard
+SKF,6306,30,72,19,Industrial Standard
+SKF,6307,35,80,21,Industrial Standard
+SKF,6308,40,90,23,Industrial Standard
+SKF,6309,45,100,25,Industrial Standard
+SKF,6310,50,110,27,Industrial Standard
+SKF,6311,55,120,29,Industrial Standard
+SKF,6312,60,130,31,Industrial Standard
+SKF,6332,160,340,68,Heavy Machinery
+SKF,51101,12,26,9,Automotive Transmission
+SKF,51106,30,47,11,Automotive Transmission
+SKF,51114,70,95,18,Industrial Standard
+SKF,51116,80,105,19,Industrial Standard
+SKF,51205,25,47,15,Automotive Transmission
+SKF,51207,35,62,18,Automotive Transmission
+SKF,51210,50,78,22,Industrial Standard
+SKF,51215,75,110,27,Industrial Standard
+SKF,51217,85,125,31,Industrial Standard
+SKF,51222,110,160,38,Industrial Standard
+SKF,51226,130,190,45,Industrial Standard
+SKF,51228,140,200,46,Industrial Standard
+SKF,51316,80,140,44,Industrial Standard
+SKF,51317,85,150,49,Industrial Standard
+SKF,51410,50,110,43,Industrial Standard
+SKF,NJ 208 ECP,40,80,18,Electric Motor
+SKF,NU 205 ECP,25,52,15,Conveyor
+SKF,NU 234 ECML,170,310,52,Heavy Industrial Spindle
+Timken,30302,15,42,14.25,Automotive Axle
+Timken,30203,17,40,13.25,Automotive Axle
+Timken,30303,17,47,15.25,Automotive Axle
+Timken,32004X,20,42,15,Conveyor
+Timken,30204,20,47,15.25,Automotive Axle
+Timken,32204,20,47,19.25,Heavy Machinery
+Timken,30304,20,52,16.25,Industrial Standard
+Timken,32304,20,52,22.25,Industrial Standard
+Timken,32005X,25,47,15,Industrial Standard
+Timken,30205,25,52,16.25,Industrial Standard
+Timken,32205,25,52,19.25,Industrial Standard
+Timken,33205,25,52,22,Industrial Standard
+Timken,30305,25,62,18.25,Industrial Standard
+Timken,32305,25,62,25.25,Industrial Standard
+Timken,32006X,30,55,17,Industrial Standard
+Timken,30206,30,62,17.25,Industrial Standard
+Timken,32206,30,62,21.25,Industrial Standard
+Timken,33206,30,62,25,Industrial Standard
+Timken,30306,30,72,20.75,Industrial Standard
+Timken,32306,30,72,28.75,Industrial Standard
+Timken,32007X,35,62,18,Industrial Standard
+Timken,30207,35,72,18.25,Industrial Standard
+Timken,32207,35,72,24.25,Industrial Standard
+Timken,31307,35,80,22.75,Industrial Standard
+Timken,30307,35,80,22.75,Industrial Standard
+Timken,32307,35,80,32.75,Industrial Standard
+Timken,32008X,40,68,19,Industrial Standard
+Timken,33108,40,75,26,Industrial Standard
+Timken,30208,40,80,19.75,Industrial Standard
+Timken,32208,40,80,24.75,Industrial Standard
+Timken,33208,40,80,32,Industrial Standard
+Timken,31308,40,90,25.25,Industrial Standard
+Timken,30308,40,90,25.25,Industrial Standard
+Timken,32308,40,90,35.25,Industrial Standard
+Timken,32009X,45,75,20,Industrial Standard
+Timken,33109,45,80,26,Industrial Standard
+Timken,30209,45,85,20.75,Industrial Standard
+Timken,32209,45,85,24.75,Industrial Standard
+Timken,33209,45,85,32,Industrial Standard
+Timken,JW4549,45,95,29,Precision Assembly
+Timken,30309,45,100,27.25,Industrial Standard
+Timken,32010X,50,80,20,Industrial Standard
+Timken,33010,50,80,24,Industrial Standard
+Timken,33110,50,85,26,Industrial Standard
+Timken,30210,50,90,21.75,Industrial Standard
+Timken,32210,50,90,24.75,Industrial Standard
+Timken,33210,50,90,32,Industrial Standard
+Timken,30310,50,110,29.25,Industrial Standard
+Timken,32011X,55,90,23,Industrial Standard
+Timken,33011,55,90,27,Industrial Standard
+Timken,33111,55,95,30,Industrial Standard
+Timken,30211,55,100,22.75,Industrial Standard
+Timken,32211,55,100,26.75,Industrial Standard
+Timken,33211,55,100,35,Industrial Standard
+Timken,30311,55,120,31.5,Industrial Standard
+Timken,31311,55,120,31.5,Industrial Standard
+Timken,32012X,60,95,23,Industrial Standard
+Timken,33012,60,95,27,Industrial Standard
+Timken,30212,60,110,23.75,Industrial Standard
+Timken,32212,60,110,29.75,Industrial Standard
+Timken,33212,60,110,38,Industrial Standard
+Timken,30312,60,130,33.5,Industrial Standard
+Timken,32013X,65,100,23,Industrial Standard
+Timken,30213,65,120,24.75,Industrial Standard
+Timken,32213,65,120,32.75,Industrial Standard
+Timken,33213,65,120,41,Industrial Standard
+Timken,30313,65,140,36.25,Industrial Standard
+Timken,30322,110,240,54.5,Heavy Industrial Standard
+Timken,32924,120,165,29,Thin Section Application
+NSK,6000,10,26,8,Electric Motor
+NSK,6001,12,28,8,Electric Motor
+NSK,6002,15,32,9,Electric Motor
+NSK,6003,17,35,10,Electric Motor
+NSK,6004,20,42,12,Electric Motor
+NSK,6005,25,47,12,Electric Motor
+NSK,6006,30,55,13,Electric Motor
+NSK,6007,35,62,14,Industrial Standard
+NSK,6008,40,68,15,Industrial Standard
+NSK,6009,45,75,16,Industrial Standard
+NSK,6010,50,80,16,Industrial Standard
+NSK,6011,55,90,18,Industrial Standard
+NSK,6012,60,95,18,Industrial Standard
+NSK,6013,65,100,18,Industrial Standard
+NSK,6014,70,110,20,Industrial Standard
+NSK,6015,75,115,20,Industrial Standard
+NSK,6200,10,30,9,Household Appliance
+NSK,6201,12,32,10,Household Appliance
+NSK,6202,15,35,11,Household Appliance
+NSK,6203,17,40,12,Household Appliance
+NSK,6204,20,47,14,Household Appliance
+NSK,6205,25,52,15,Household Appliance
+NSK,6300,10,35,11,Industrial Standard
+NSK,6301,12,37,12,Industrial Standard
+NSK,6302,15,42,13,Industrial Standard
+NSK,6303,17,47,14,Industrial Standard
+NSK,6304,20,52,15,Industrial Standard
+NSK,51100,10,24,9,Automotive Clutch
+FAG,6000,10,26,8,Industrial Standard
+FAG,6001,12,28,8,Industrial Standard
+FAG,6005,25,47,12,Industrial Standard
+FAG,6008,40,68,15,Industrial Standard
+FAG,6010,50,80,16,Industrial Standard
+FAG,6200,10,30,9,Electric Motor
+FAG,6201,12,32,10,Electric Motor
+FAG,6202,15,35,11,Electric Motor
+FAG,6203,17,40,12,Electric Motor
+FAG,6204,20,47,14,Electric Motor
+FAG,6205,25,52,15,Electric Motor
+FAG,6206,30,62,16,Electric Motor
+FAG,6207,35,72,17,Electric Motor
+FAG,6208,40,80,18,Electric Motor
+FAG,6209,45,85,19,Electric Motor
+FAG,6210,50,90,20,Electric Motor
+FAG,6211,55,100,21,Electric Motor
+FAG,6212,60,110,22,Electric Motor
+FAG,6300,10,35,11,Heavy Machinery
+FAG,6301,12,37,12,Industrial Standard
+FAG,6302,15,42,13,Industrial Standard
+FAG,6303,17,47,14,Industrial Standard
+FAG,6304,20,52,15,Industrial Standard
+FAG,6305,25,62,17,Industrial Standard
+NTN,EC-6205LLU,25,52,15,Expansion Compensating
+NTN,EC-6006LLU,30,55,13,Industrial Standard
+NTN,EC-6206LLU,30,62,16,Industrial Standard
+NTN,EC-6306LLU,30,72,19,Conveyor
+NTN,EC-6007LLU,35,62,14,Industrial Standard
+NTN,EC-6307LLU,35,80,21,Industrial Standard
+NTN,EC-6207LLU,35,72,17,Industrial Standard
+NTN,EC-6308LLU,40,90,23,Industrial Standard
+NTN,EC-6208LLU,40,80,18,Industrial Standard
+NTN,EC-6008LLU,40,68,15,Industrial Standard
+NTN,EC-6209LLU,45,85,19,Industrial Standard
+NTN,EC-6009LLU,45,75,16,Industrial Standard
+NTN,EC-6309LLU,45,100,25,Industrial Standard
+NTN,EC-6010LLU,50,80,16,Industrial Standard
+NTN,EC-6210LLU,50,90,20,Industrial Standard
+NTN,EC-6310LLU,50,110,27,Industrial Standard
+NTN,AC-6200LLB,10,30,9,Industrial Standard
+NTN,AC-6201LLB,12,32,10,Industrial Standard
+NTN,AC-6307LLB,35,80,21,Industrial Standard
+NTN,AC-6007LLB,35,62,14,Industrial Standard
+NTN,AC-6208LLB,40,80,18,Industrial Standard
+NTN,AC-6209LLB,45,85,19,Industrial Standard
+NTN,AC-6300LLB,10,35,11,Industrial Standard
+NTN,AC-6001LLB,12,28,8,Industrial Standard
+NTN,AC-6000LLB,10,26,8,Industrial Standard
+NTN,AC-6301LLB,12,37,12,Industrial Standard
+NTN,AC-6002LLB,15,32,9,Industrial Standard
+NTN,AC-6202LLB,15,35,11,Industrial Standard
+NTN,AC-6207LLB,35,72,17,Industrial Standard
+NTN,AC-6309LLB,45,100,25,Industrial Standard
+NTN,AC-6308LLB,40,90,23,Industrial Standard
+NTN,FL60/1.5,1.5,6,2.5,Precision Instrument
+NTN,FL602,2,7,2.8,Precision Instrument
+NTN,FL603,3,9,3,Precision Instrument
+NTN,FL604,4,12,4,Precision Instrument
+NTN,FL605,5,14,5,Precision Instrument
+NTN,FL606,6,17,6,Precision Instrument
+NTN,FL624,4,13,5,Precision Instrument
+NTN,FL625,5,16,5,Precision Instrument
+3382,149479MACK,0,0,0,Cross Reference Only
+615,149483MACK,0,0,0,Cross Reference Only
+59200,149484MACK,0,0,0,Cross Reference Only
+59175,149485MACK,0,0,0,Cross Reference Only
+3984,149486MACK,0,0,0,Cross Reference Only
+09078,149487MACK,0,0,0,Cross Reference Only
+53176,149488MACK,0,0,0,Cross Reference Only
+479,149489MACK,0,0,0,Cross Reference Only
+3578,149490MACK,0,0,0,Cross Reference Only
+3778,149492MACK,0,0,0,Cross Reference Only
+2790,149493BROCKW,0,0,0,Cross Reference Only
+3877,149494BROCKW,0,0,0,Cross Reference Only
+368A,149495MACK,0,0,0,Cross Reference Only
+495,149496MACK,0,0,0,Cross Reference Only
+52400,149497MACK,0,0,0,Cross Reference Only
+42346,149499BROCKW,0,0,0,Cross Reference Only
+68450,149503MACK,0,0,0,Cross Reference Only
+495A,149504MACK,0,0,0,Cross Reference Only
+33281,149505MACK,0,0,0,Cross Reference Only
+3782,149511MACK,0,0,0,Cross Reference Only
+581,149513MACK,0,0,0,Cross Reference Only
+71450,149516BROCKW,0,0,0,Cross Reference Only
+760,149517BROCKW,0,0,0,Cross Reference Only
+665,149518BROCKW,0,0,0,Cross Reference Only
+42376,149519BROCKW,0,0,0,Cross Reference Only
+48506,149523MACK,0,0,0,Cross Reference Only
+47686,149526BROCKW,0,0,0,Cross Reference Only
+758,149533MACK,0,0,0,Cross Reference Only
+33275,149534GM,0,0,0,Cross Reference Only
+495AX,149535EUCLID,0,0,0,Cross Reference Only
+598A,149535GM,0,0,0,Cross Reference Only
+3994,149536MACK,0,0,0,Cross Reference Only
+53177,149537MACK,0,0,0,Cross Reference Only
+48393,149538MACK,0,0,0,Cross Reference Only
+47890,149539MACK,0,0,0,Cross Reference Only
+9185,149541MACK,0,0,0,Cross Reference Only
+497,149542MACK,0,0,0,Cross Reference Only
+56425,149543MACK,0,0,0,Cross Reference Only
+28678,149544MACK,0,0,0,Cross Reference Only
+28580,149545MACK,0,0,0,Cross Reference Only
+3479,149546JEFREY,0,0,0,Cross Reference Only
+598,149546MACK,0,0,0,Cross Reference Only
+42381,149548MACK,0,0,0,Cross Reference Only
+42688,149549MACK,0,0,0,Cross Reference Only
+39581,149550MACK,0,0,0,Cross Reference Only
+3585,149551MACK,0,0,0,Cross Reference Only
+482,149553MACK,0,0,0,Cross Reference Only
+498,149555MACK,0,0,0,Cross Reference Only
+59162,149556MACK,0,0,0,Cross Reference Only
+49585,149557MACK,0,0,0,Cross Reference Only
+496,149558MACK,0,0,0,Cross Reference Only
+582,149560MACK,0,0,0,Cross Reference Only
+42687,149561MACK,0,0,0,Cross Reference Only
+681A,149562MACK,0,0,0,Cross Reference Only
+65237,149565MACK,0,0,0,Cross Reference Only
+2780,149566MACK,0,0,0,Cross Reference Only
+65200,149567MACK,0,0,0,Cross Reference Only
+...................,J402464,0,0,0,Cross Reference Only
+...................,J402480,0,0,0,Cross Reference Only
+.......................,88501,0,0,0,Cross Reference Only
+.......................,02135,0,0,0,Cross Reference Only
+.........................,359S,0,0,0,Cross Reference Only
+............................,462,0,0,0,Cross Reference Only
+............................,559,0,0,0,Cross Reference Only
+.........................,567A,0,0,0,Cross Reference Only
+............................,643,0,0,0,Cross Reference Only
+.........................,748S,0,0,0,Cross Reference Only
+.........................,1380,0,0,0,Cross Reference Only
+.........................,2580,0,0,0,Cross Reference Only
+.......................,02872,0,0,0,Cross Reference Only
+.........................,3479,0,0,0,Cross Reference Only
+.........................,3490,0,0,0,Cross Reference Only
+.........................,3877,0,0,0,Cross Reference Only
+.......................,11590,0,0,0,Cross Reference Only
+.....................,14117A,0,0,0,Cross Reference Only
+.......................,14131,0,0,0,Cross Reference Only
+.....................,14137A,0,0,0,Cross Reference Only
+.....................,14138A,0,0,0,Cross Reference Only
+.......................,18790,0,0,0,Cross Reference Only
+.......................,24780,0,0,0,Cross Reference Only
+.......................,25577,0,0,0,Cross Reference Only
+.......................,25580,0,0,0,Cross Reference Only
+.......................,25590,0,0,0,Cross Reference Only
+.......................,25877,0,0,0,Cross Reference Only
+.......................,25878,0,0,0,Cross Reference Only
+.......................,26878,0,0,0,Cross Reference Only
+.....................,26882T,0,0,0,Cross Reference Only
+.......................,28580,0,0,0,Cross Reference Only
+.......................,28678,0,0,0,Cross Reference Only
+.......................,31593,0,0,0,Cross Reference Only
+.......................,39236,0,0,0,Cross Reference Only
+.......................,39590,0,0,0,Cross Reference Only
+.......................,52375,0,0,0,Cross Reference Only
+.......................,52400,0,0,0,Cross Reference Only
+.......................,88931,0,0,0,Cross Reference Only
+.........................,354A,0,0,0,Cross Reference Only
+.........................,453A,0,0,0,Cross Reference Only
+.........................,552A,0,0,0,Cross Reference Only
+............................,563,0,0,0,Cross Reference Only
+............................,632,0,0,0,Cross Reference Only
+............................,633,0,0,0,Cross Reference Only
+............................,742,0,0,0,Cross Reference Only
+.........................,1328,0,0,0,Cross Reference Only
+.......................,02820,0,0,0,Cross Reference Only
+.........................,3320,0,0,0,Cross Reference Only
+.........................,3420,0,0,0,Cross Reference Only
+.........................,3820,0,0,0,Cross Reference Only
+.......................,11520,0,0,0,Cross Reference Only
+.......................,14276,0,0,0,Cross Reference Only
+.......................,15244,0,0,0,Cross Reference Only
+.......................,15245,0,0,0,Cross Reference Only
+.......................,15520,0,0,0,Cross Reference Only
+.......................,18720,0,0,0,Cross Reference Only
+.......................,24721,0,0,0,Cross Reference Only
+.......................,25523,0,0,0,Cross Reference Only
+.......................,25821,0,0,0,Cross Reference Only
+.......................,26820,0,0,0,Cross Reference Only
+.......................,26822,0,0,0,Cross Reference Only
+.......................,28521,0,0,0,Cross Reference Only
+.......................,28622,0,0,0,Cross Reference Only
+.......................,31520,0,0,0,Cross Reference Only
+.......................,39520,0,0,0,Cross Reference Only
+.......................,52618,0,0,0,Cross Reference Only
+............................... 207,WB1487MIDAS,0,0,0,Cross Reference Only
+....... JRM3535A-90U02,WB1488MIDAS,0,0,0,Cross Reference Only
+......................... 513006,WB1490MIDAS,0,0,0,Cross Reference Only
+......................... 513010,WB210ULINK-B,0,0,0,Cross Reference Only
+...................... 513011K,WB210ULLINK-B,0,0,0,Cross Reference Only
+......................... 513012,WB212ULINK-B,0,0,0,Cross Reference Only
+......................... 513003,WB212ULLINK-B,0,0,0,Cross Reference Only
+......................... 513018,WB212ULREXNOR,0,0,0,Cross Reference Only
+......................... 513018,WB214ULINK-B,0,0,0,Cross Reference Only
+............................. 6408,WB214ULLINK-B,0,0,0,Cross Reference Only
+...................... 513016K,WB214ULREXNOR,0,0,0,Cross Reference Only
+...................... 513017K,WB215ULREXNOR,0,0,0,Cross Reference Only
+...................... 513004K,WB216ULINK-B,0,0,0,Cross Reference Only
+.................... TRP57509,WB216ULLINK-B,0,0,0,Cross Reference Only
+......................... 513001,WB216ULREXNOR,0,0,0,Cross Reference Only
+........................... 32006,WB218ELLINK-B,0,0,0,Cross Reference Only
+......................... 513013,WB218ELREXNOR,0,0,0,Cross Reference Only
+...................... 88506BR,WB218ULINK-B,0,0,0,Cross Reference Only
+......................... 513031,WB219ELREXNOR,0,0,0,Cross Reference Only
+...................... 514002B,WB21OULREXNOR,0,0,0,Cross Reference Only
+......................... 513031,WB220ELREXNOR,0,0,0,Cross Reference Only
+......................... 513051,WB222ELREXNOR,0,0,0,Cross Reference Only
+......................... 513149,WB223ELREXNOR,0,0,0,Cross Reference Only
+........................... 205FF,WB224ELLINK-B,0,0,0,Cross Reference Only
+........................... 204FF,WB224ELREXNOR,0,0,0,Cross Reference Only
+......................... 514004,WB2B08ULINK-B,0,0,0,Cross Reference Only
+........................... 207FF,WB2BO8ULREXNOR,0,0,0,Cross Reference Only
+...................... R1561TV,WB2E20ELLINK-B,0,0,0,Cross Reference Only
+......................... 513035,WB2E20ULINK-B,0,0,0,Cross Reference Only
+...................... 514002B,WBX1514WHITE,0,0,0,Cross Reference Only
+......................... 513052,WBX1515WHITE,0,0,0,Cross Reference Only
+......................... 513053,WBX1516WHITE,0,0,0,Cross Reference Only
+......................... 513024,WC1085FEDRAL,0,0,0,Cross Reference Only
+......................... 513059,WC203KLL2FAFNIR,0,0,0,Cross Reference Only
+......................... 513044,WC8503SKF,0,0,0,Cross Reference Only
+......................... 513044,WC8507HOOVER,0,0,0,Cross Reference Only
+......................... 513019,WC8507SKF,0,0,0,Cross Reference Only
+......................... 513070,WC87016FM,0,0,0,Cross Reference Only
+......................... 513072,WC87016LFEDRAL,0,0,0,Cross Reference Only
+......................... 513036,WC87500FM,0,0,0,Cross Reference Only
+......................... 513029,WC87500SKF,0,0,0,Cross Reference Only
+......................... 513029,WC87502FM,0,0,0,Cross Reference Only
+......................... 513029,WC87502SKF,0,0,0,Cross Reference Only
+............................. SET4,WC87502LFEDRAL,0,0,0,Cross Reference Only
+............................. SET1,WC87503FM,0,0,0,Cross Reference Only
+......................... 513181,WC87503SKF,0,0,0,Cross Reference Only
+......................... 513131,WC87503LFEDRAL,0,0,0,Cross Reference Only
+......................... 513057,WC87504FM,0,0,0,Cross Reference Only
+......................... 513055,WC87504SKF,0,0,0,Cross Reference Only
+........................... SET49,WC87504LFEDRAL,0,0,0,Cross Reference Only
+......................... 513053,WC87505FM,0,0,0,Cross Reference Only
+......................... 513033,WC87505SKF,0,0,0,Cross Reference Only
+......................... 513053,WC88503FM,0,0,0,Cross Reference Only
+......................... 513182,WC88503SKF,0,0,0,Cross Reference Only
+......................... 513025,WF02500FM,0,0,0,Cross Reference Only
+......................... 513034,WFA01447CAFM,0,0,0,Cross Reference Only
+........................... SET35,WFA01747CFM,0,0,0,Cross Reference Only
+......................... 513070,WFB01338CFM,0,0,0,Cross Reference Only
+......................... 510008,WFB01338CAFM,0,0,0,Cross Reference Only
+......................... 513015,WFB01747CAFM,0,0,0,Cross Reference Only
+......................... 513015,WFC01337CBFM,0,0,0,Cross Reference Only
+......................... 513007,WFC01338CFM,0,0,0,Cross Reference Only
+......................... 513022,WFC01437CBFM,0,0,0,Cross Reference Only
+......................... 513002,WG212ULINK-B,0,0,0,Cross Reference Only
+......................... 513050,WG214ULINK-B,0,0,0,Cross Reference Only
+......................... 513013,WG216ULINK-B,0,0,0,Cross Reference Only
