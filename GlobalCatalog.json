@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "categories": [
+    {"id": 1, "title": "Bearings", "type": "ball_roller"},
+    {"id": 2, "title": "Chains", "type": "transmission"},
+    {"id": 3, "title": "Seals", "type": "sealing"},
+    {"id": 4, "title": "Agri", "type": "agricultural"}
+  ]
+}
