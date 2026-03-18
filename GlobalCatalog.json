@@ -2,32 +2,32 @@
   "version": "1.0.0",
   "categories": [
     {
-      "id": 1, 
-      "title": "Bearings", 
-      "type": "ball_roller", 
-      "subtitle": "High speed, electric motors, pumps",
-      "data": "Standard radial clearances: C2, CN, C3, C4. \n\nC3 is the global standard for electric motors."
+      "id": 1,
+      "title": "Bearings",
+      "type": "ball_roller",
+      "subtitle": "HIGH SPEED, ELECTRIC MOTORS, PUMPS",
+      "data": "Standard radial clearances: C2, CN, C3, C4. \n\nC3 is the global standard for electric motors due to thermal expansion. Fits generally require ISO k6 or m6 shaft tolerances."
     },
     {
-      "id": 2, 
-      "title": "Chains", 
+      "id": 2,
+      "title": "Chains",
       "type": "transmission",
-      "subtitle": "Drive systems & conveyors",
-      "data": "ANSI Sizes: 35 to 240. BS Sizes: 06B to 32B. Check for sprocket wear."
+      "subtitle": "DRIVE SYSTEMS & CONVEYORS",
+      "data": "ANSI Sizes: 35 to 240. BS Sizes: 06B to 32B. \n\nAlways check for 'hooking' on sprocket teeth as a sign of wear. Lubrication is essential for chain longevity."
     },
     {
-      "id": 3, 
-      "title": "Seals", 
+      "id": 3,
+      "title": "Seals",
       "type": "sealing",
-      "subtitle": "Fluid retention & protection",
-      "data": "TC (Double Lip) is the industry standard. Ensure garter spring faces fluid."
+      "subtitle": "FLUID RETENTION & PROTECTION",
+      "data": "TC (Double Lip) is the industry standard for keeping oil in and dust out. \n\nEnsure the garter spring is facing the fluid being retained. Use Viton for high-heat applications."
     },
     {
-      "id": 4, 
-      "title": "Agri", 
+      "id": 4,
+      "title": "Agri",
       "type": "agricultural",
-      "subtitle": "Disc Harrow & Hubs",
-      "data": "Specialized sealing for high-contamination. Features Triple-Lip seals."
+      "subtitle": "DISC HARROW & HUBS",
+      "data": "Specialized sealing for high-contamination environments. \n\nFeatures 'Triple-Lip' seals and robust housing units for tillage. Regularly check for hub play in heavy-duty cycles."
     }
   ]
 }
