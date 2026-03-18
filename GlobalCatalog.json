@@ -1,9 +1,115 @@
-{
-  "version": "1.0.0",
-  "categories": [
-    {"id": 1, "title": "Bearings", "type": "ball_roller"},
-    {"id": 2, "title": "Chains", "type": "transmission"},
-    {"id": 3, "title": "Seals", "type": "sealing"},
-    {"id": 4, "title": "Agri", "type": "agricultural"}
-  ]
+import React, { useState, useEffect } from 'react';
+import { View, Text, ScrollView, TouchableOpacity, Modal, ActivityIndicator } from 'react-native';
+import { ChevronRight, X, CircleDot, Database, LifeBuoy, Target } from 'lucide-react-native';
+
+// This is our fallback in case the GitHub file doesn't have an icon defined yet
+const IconMapper = {
+  "ball_roller": CircleDot,
+  "transmission": Database,
+  "sealing": LifeBuoy,
+  "agricultural": Target
+};
+
+const IconColors = {
+  "ball_roller": "bg-blue-600",
+  "transmission": "bg-orange-600",
+  "sealing": "bg-emerald-600",
+  "agricultural": "bg-amber-500"
+};
+
+export default function CatalogScreen() {
+  const [selectedDoc, setSelectedDoc] = useState(null);
+  const [bearingCatalog, setBearingCatalog] = useState([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    // THE RAW URL - Direct from your repo!
+    const GITHUB_URL = "https://raw.githubusercontent.com/Firefox8407/BearingPro-Data/main/GlobalCatalog.json";
+
+    fetch(GITHUB_URL)
+      .then((response) => response.json())
+      .then((json) => {
+        // We grab the "categories" array from your JSON file
+        setBearingCatalog(json.categories); 
+        setLoading(false);
+      })
+      .catch((error) => {
+        console.error("Fortress Sync Error:", error);
+        setLoading(false);
+      });
+  }, []);
+
+  if (loading) {
+    return (
+      <View className="flex-1 justify-center items-center bg-slate-50">
+        <ActivityIndicator size="large" color="#2563eb" />
+        <Text className="mt-4 font-black text-slate-400 uppercase tracking-widest text-[10px]">Syncing Fortress Data...</Text>
+      </View>
+    );
+  }
+
+  return (
+    <ScrollView className="flex-1 bg-slate-50 p-6" showsVerticalScrollIndicator={false}>
+      
+      {/* HEADER - Keeping your exact design */}
+      <View className="items-center mb-8 mt-4">
+          <Text className="text-[10px] font-black text-slate-400 uppercase tracking-widest mb-2">Technical Library</Text>
+          <Text className="text-3xl font-black text-slate-900 uppercase tracking-tighter text-center">Global Bearing Standards</Text>
+      </View>
+      
+      {/* THE DYNAMIC BUTTONS */}
+      <View className="w-full">
+        {bearingCatalog.map((item) => {
+          const IconComponent = IconMapper[item.type] || CircleDot;
+          const bgColor = IconColors[item.type] || "bg-slate-800";
+          
+          return (
+            <TouchableOpacity 
+              key={item.id} 
+              onPress={() => setSelectedDoc(item)} 
+              className="w-full bg-white p-6 rounded-[2.5rem] mb-6 flex-row items-center shadow-lg border border-slate-100"
+            >
+              <View className={`${bgColor} p-5 rounded-3xl mr-5 shadow-sm`}>
+                <IconComponent size={32} color="white" />
+              </View>
+              <View className="flex-1 pr-2">
+                <Text className="text-xl font-black text-slate-900 mb-1">{item.title}</Text>
+                <Text className="text-sm font-bold text-slate-400 leading-tight uppercase">{item.type.replace('_', ' ')}</Text>
+              </View>
+              <ChevronRight size={24} color="#cbd5e1" />
+            </TouchableOpacity>
+          );
+        })}
+      </View>
+      
+      <View className="h-10 w-full" />
+
+      {/* THE POPUP MODAL */}
+      <Modal visible={!!selectedDoc} transparent animationType="slide">
+        <View style={{flex: 1, backgroundColor: 'rgba(15,23,42,0.9)', justifyContent: 'flex-end'}}>
+          <View className="bg-white rounded-t-[3rem] p-8 shadow-2xl min-h-[55%]">
+            
+            <View className="flex-row justify-between items-start mb-8">
+               <View className="flex-1 pr-4">
+                 <Text className="text-xs font-black text-blue-600 uppercase tracking-widest mb-2">Engineering Specs</Text>
+                 <Text className="text-3xl font-black text-slate-900 tracking-tighter leading-none">{selectedDoc?.title}</Text>
+               </View>
+               <TouchableOpacity onPress={() => setSelectedDoc(null)} className="bg-slate-100 p-4 rounded-full">
+                 <X size={24} color="#64748b" />
+               </TouchableOpacity>
+            </View>
+
+            <View className="bg-slate-50 p-8 rounded-[2.5rem] border border-slate-100">
+               {/* Note: In your "Crawl" JSON, you don't have "data" yet, so we show the type */}
+               <Text className="text-slate-700 font-bold text-xl leading-relaxed">
+                 {selectedDoc?.data || `Technical data for ${selectedDoc?.title} is being synchronized from the cloud repo.`}
+               </Text>
+            </View>
+
+          </View>
+        </View>
+      </Modal>
+
+    </ScrollView>
+  );
 }
