@@ -1,33 +1,56 @@
 {
-  "version": "1.0.0",
+  "version": "1.2.0",
   "categories": [
     {
       "id": 1,
       "title": "Bearings",
       "type": "ball_roller",
-      "subtitle": "HIGH SPEED, ELECTRIC MOTORS, PUMPS",
-      "data": "Standard radial clearances: C2, CN, C3, C4. \n\nC3 is the global standard for electric motors due to thermal expansion. Fits generally require ISO k6 or m6 shaft tolerances."
+      "subtitle": "HIGH SPEED, ELECTRIC MOTORS",
+      "data": "Deep Groove Ball Bearings (Metric Series).",
+      "parts": [
+        {"size": "6200", "bore": "10mm", "od": "30mm", "width": "9mm"},
+        {"size": "6201", "bore": "12mm", "od": "32mm", "width": "10mm"},
+        {"size": "6202", "bore": "15mm", "od": "35mm", "width": "11mm"},
+        {"size": "6203", "bore": "17mm", "od": "40mm", "width": "12mm"},
+        {"size": "6204", "bore": "20mm", "od": "47mm", "width": "14mm"}
+      ]
     },
     {
       "id": 2,
       "title": "Chains",
       "type": "transmission",
       "subtitle": "DRIVE SYSTEMS & CONVEYORS",
-      "data": "ANSI Sizes: 35 to 240. BS Sizes: 06B to 32B. \n\nAlways check for 'hooking' on sprocket teeth as a sign of wear. Lubrication is essential for chain longevity."
+      "data": "ANSI Standard Roller Chains.",
+      "parts": [
+        {"size": "#35", "pitch": "9.525mm", "width": "4.78mm"},
+        {"size": "#40", "pitch": "12.70mm", "width": "7.95mm"},
+        {"size": "#50", "pitch": "15.875mm", "width": "9.53mm"},
+        {"size": "#60", "pitch": "19.05mm", "width": "12.70mm"},
+        {"size": "#80", "pitch": "25.40mm", "width": "15.88mm"}
+      ]
     },
     {
       "id": 3,
       "title": "Seals",
       "type": "sealing",
-      "subtitle": "FLUID RETENTION & PROTECTION",
-      "data": "TC (Double Lip) is the industry standard for keeping oil in and dust out. \n\nEnsure the garter spring is facing the fluid being retained. Use Viton for high-heat applications."
+      "subtitle": "FLUID RETENTION",
+      "data": "TC Profile Oil Seals (Metric).",
+      "parts": [
+        {"size": "25x40x7", "bore": "25mm", "od": "40mm", "width": "7mm"},
+        {"size": "30x52x10", "bore": "30mm", "od": "52mm", "width": "10mm"},
+        {"size": "40x62x8", "bore": "40mm", "od": "62mm", "width": "8mm"}
+      ]
     },
     {
       "id": 4,
       "title": "Agri",
       "type": "agricultural",
       "subtitle": "DISC HARROW & HUBS",
-      "data": "Specialized sealing for high-contamination environments. \n\nFeatures 'Triple-Lip' seals and robust housing units for tillage. Regularly check for hub play in heavy-duty cycles."
+      "data": "Agricultural Hub & Disc Bearings.",
+      "parts": [
+        {"size": "W208PPB", "bore": "Square", "note": "Disc Harrow"},
+        {"size": "GW209PPB", "bore": "Round", "note": "Tillage Unit"}
+      ]
     }
   ]
 }
