@@ -1,50 +1,65 @@
 {
-  "version": "1.4.0",
+  "version": "1.5.0",
   "categories": [
     {
       "id": 1,
       "title": "Bearings",
       "type": "ball_roller",
-      "pdfUrl": "https://universalbearings.com.au/catalogues/bearings/",
+      "pdfUrl": "https://universalbearings.com.au/wp-content/uploads/2021/05/Universal-Bearings-Catalog-2021-Bearings.pdf",
       "subtitle": "BALL, ROLLER & PLAIN TYPES",
-      "data": "Complete ISO standards for Deep Groove, Tapered, Spherical, and Needle rollers.",
-      "parts": [{"size": "Ball Bearings", "note": "High Speed"}, {"size": "Roller Bearings", "note": "Heavy Load"}]
+      "data": "Master Catalog for Deep Groove, Tapered, Spherical, and Needle rollers.",
+      "parts": [
+        {"size": "Ball Bearings", "note": "High Speed"},
+        {"size": "Roller Bearings", "note": "Heavy Load"}
+      ]
     },
     {
       "id": 2,
       "title": "Roller Chains",
       "type": "transmission",
-      "pdfUrl": "https://universalbearings.com.au/catalogues/transmission/",
+      "pdfUrl": "https://universalbearings.com.au/wp-content/uploads/2021/05/Universal-Bearings-Catalog-2021-Power-Transmission.pdf",
       "subtitle": "ASA/BS, HEAVY DUTY & LEAF",
-      "data": "Full pitch and breaking strain tables for drive and conveyor chains.",
-      "parts": [{"size": "Standard Roller", "note": "ASA / BS"}, {"size": "Leaf Chain", "note": "Lifting"}]
+      "data": "Complete pitch and breaking strain tables for drive and conveyor chains.",
+      "parts": [
+        {"size": "Standard Roller", "note": "ASA / BS"},
+        {"size": "Leaf Chain", "note": "Lifting"}
+      ]
     },
     {
       "id": 3,
       "title": "Power Transmission",
       "type": "transmission",
-      "pdfUrl": "https://universalbearings.com.au/catalogues/transmission/",
+      "pdfUrl": "https://universalbearings.com.au/wp-content/uploads/2021/05/Universal-Bearings-Catalog-2021-Power-Transmission.pdf",
       "subtitle": "V-BELTS, TIMING & WEDGE",
       "data": "Profiles for SPZ, SPA, SPB, SPC and classic A, B, C sections.",
-      "parts": [{"size": "Wedge Belts", "note": "High Power"}, {"size": "Timing Belts", "note": "Synchronous"}]
+      "parts": [
+        {"size": "Wedge Belts", "note": "High Power"},
+        {"size": "Timing Belts", "note": "Synchronous"}
+      ]
     },
     {
       "id": 4,
       "title": "Shaft Seals",
       "type": "sealing",
-      "pdfUrl": "https://universalbearings.com.au/catalogues/sealing/",
+      "pdfUrl": "https://universalbearings.com.au/wp-content/uploads/2021/05/Universal-Bearings-Catalog-2021-Sealing-Solutions.pdf",
       "subtitle": "TC/SC PROFILES & V-RINGS",
       "data": "Oil and grease retention specs. Nitrile (NBR) and Viton (FKM) options.",
-      "parts": [{"size": "Oil Seals", "note": "TC / SC"}, {"size": "V-Rings", "note": "Axial Seal"}]
+      "parts": [
+        {"size": "Oil Seals", "note": "TC / SC"},
+        {"size": "V-Rings", "note": "Axial Seal"}
+      ]
     },
     {
       "id": 5,
       "title": "Hardware",
-      "type": "agricultural",
-      "pdfUrl": "https://universalbearings.com.au/catalogues/fasteners-circlip-pliers/",
+      "type": "hardware",
+      "pdfUrl": "https://universalbearings.com.au/wp-content/uploads/2021/05/Universal-Bearings-Catalog-2021-Fasteners-Circlips-Pliers.pdf",
       "subtitle": "CIRCLIPS, ADAPTERS, LOCKNUTS",
       "data": "Internal/External circlips, H-series sleeves, and KM locknuts.",
-      "parts": [{"size": "Circlips", "note": "D1300 / D1400"}, {"size": "Adapter Sleeves", "note": "H-Series"}]
+      "parts": [
+        {"size": "Circlips", "note": "D1300 / D1400"},
+        {"size": "Adapter Sleeves", "note": "H-Series"}
+      ]
     }
   ]
 }
