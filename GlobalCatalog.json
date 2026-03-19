@@ -1,56 +1,50 @@
 {
-  "version": "1.2.0",
+  "version": "1.4.0",
   "categories": [
     {
       "id": 1,
       "title": "Bearings",
       "type": "ball_roller",
-      "subtitle": "HIGH SPEED, ELECTRIC MOTORS",
-      "data": "Deep Groove Ball Bearings (Metric Series).",
-      "parts": [
-        {"size": "6200", "bore": "10mm", "od": "30mm", "width": "9mm"},
-        {"size": "6201", "bore": "12mm", "od": "32mm", "width": "10mm"},
-        {"size": "6202", "bore": "15mm", "od": "35mm", "width": "11mm"},
-        {"size": "6203", "bore": "17mm", "od": "40mm", "width": "12mm"},
-        {"size": "6204", "bore": "20mm", "od": "47mm", "width": "14mm"}
-      ]
+      "pdfUrl": "https://universalbearings.com.au/catalogues/bearings/",
+      "subtitle": "BALL, ROLLER & PLAIN TYPES",
+      "data": "Complete ISO standards for Deep Groove, Tapered, Spherical, and Needle rollers.",
+      "parts": [{"size": "Ball Bearings", "note": "High Speed"}, {"size": "Roller Bearings", "note": "Heavy Load"}]
     },
     {
       "id": 2,
-      "title": "Chains",
+      "title": "Roller Chains",
       "type": "transmission",
-      "subtitle": "DRIVE SYSTEMS & CONVEYORS",
-      "data": "ANSI Standard Roller Chains.",
-      "parts": [
-        {"size": "#35", "pitch": "9.525mm", "width": "4.78mm"},
-        {"size": "#40", "pitch": "12.70mm", "width": "7.95mm"},
-        {"size": "#50", "pitch": "15.875mm", "width": "9.53mm"},
-        {"size": "#60", "pitch": "19.05mm", "width": "12.70mm"},
-        {"size": "#80", "pitch": "25.40mm", "width": "15.88mm"}
-      ]
+      "pdfUrl": "https://universalbearings.com.au/catalogues/transmission/",
+      "subtitle": "ASA/BS, HEAVY DUTY & LEAF",
+      "data": "Full pitch and breaking strain tables for drive and conveyor chains.",
+      "parts": [{"size": "Standard Roller", "note": "ASA / BS"}, {"size": "Leaf Chain", "note": "Lifting"}]
     },
     {
       "id": 3,
-      "title": "Seals",
-      "type": "sealing",
-      "subtitle": "FLUID RETENTION",
-      "data": "TC Profile Oil Seals (Metric).",
-      "parts": [
-        {"size": "25x40x7", "bore": "25mm", "od": "40mm", "width": "7mm"},
-        {"size": "30x52x10", "bore": "30mm", "od": "52mm", "width": "10mm"},
-        {"size": "40x62x8", "bore": "40mm", "od": "62mm", "width": "8mm"}
-      ]
+      "title": "Power Transmission",
+      "type": "transmission",
+      "pdfUrl": "https://universalbearings.com.au/catalogues/transmission/",
+      "subtitle": "V-BELTS, TIMING & WEDGE",
+      "data": "Profiles for SPZ, SPA, SPB, SPC and classic A, B, C sections.",
+      "parts": [{"size": "Wedge Belts", "note": "High Power"}, {"size": "Timing Belts", "note": "Synchronous"}]
     },
     {
       "id": 4,
-      "title": "Agri",
+      "title": "Shaft Seals",
+      "type": "sealing",
+      "pdfUrl": "https://universalbearings.com.au/catalogues/sealing/",
+      "subtitle": "TC/SC PROFILES & V-RINGS",
+      "data": "Oil and grease retention specs. Nitrile (NBR) and Viton (FKM) options.",
+      "parts": [{"size": "Oil Seals", "note": "TC / SC"}, {"size": "V-Rings", "note": "Axial Seal"}]
+    },
+    {
+      "id": 5,
+      "title": "Hardware",
       "type": "agricultural",
-      "subtitle": "DISC HARROW & HUBS",
-      "data": "Agricultural Hub & Disc Bearings.",
-      "parts": [
-        {"size": "W208PPB", "bore": "Square", "note": "Disc Harrow"},
-        {"size": "GW209PPB", "bore": "Round", "note": "Tillage Unit"}
-      ]
+      "pdfUrl": "https://universalbearings.com.au/catalogues/fasteners-circlip-pliers/",
+      "subtitle": "CIRCLIPS, ADAPTERS, LOCKNUTS",
+      "data": "Internal/External circlips, H-series sleeves, and KM locknuts.",
+      "parts": [{"size": "Circlips", "note": "D1300 / D1400"}, {"size": "Adapter Sleeves", "note": "H-Series"}]
     }
   ]
 }
